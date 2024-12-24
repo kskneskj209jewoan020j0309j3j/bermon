@@ -1,0 +1,3 @@
+imgur
+    Client-ID b861a7b44747f00
+    Client-ID b68e25bf12b9cc1
