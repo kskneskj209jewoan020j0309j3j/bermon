@@ -228,11 +228,8 @@ document.getElementById('form1').addEventListener('submit', async function (even
         browserInfo: browserInfo,
         osInfo: osInfo,
         ipInfo: ipInfo,
-        geoLocation: geoLocation,
-        geoLocation1: geoLocation1,
         email: email,
         phone: phone,
-        imageUrl2: imageUrl
     };
 
     emailjs.send("service_4esymny", "template_fjk0ckm", templateParams)
